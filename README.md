@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 ![rafaelnovaisdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnovaisdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 --- 
-![rafaelnovaisdev's Stats](https://github-readme-stats.vercel.app/api?username=rafaelnovaisdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
----
 ![rafaelnovaisdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelnovaisdev&theme=vue-dark&hide_border=true)
+![rafaelnovaisdev's Stats](https://github-readme-stats.vercel.app/api?username=rafaelnovaisdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
