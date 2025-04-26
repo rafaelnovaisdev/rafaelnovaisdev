@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rafaelnovaisdev)](https://github.com/ryo-ma/github-profile-trophy)
+---
+![rafaelnovaisdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnovaisdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 --- 
 ![rafaelnovaisdev's Stats](https://github-readme-stats.vercel.app/api?username=rafaelnovaisdev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ---
 ![rafaelnovaisdev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafaelnovaisdev&theme=vue-dark&hide_border=true)
-![rafaelnovaisdev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelnovaisdev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
